@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -camp
+ls -amp | sort -d
